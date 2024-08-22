@@ -16,5 +16,10 @@
   <img src="https://github.com/nircko/3D-speckle-simulation/blob/main/cool_speckle_3d.gif" alt="Wave propgation inside turbalent media results in speckles" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/nircko/mazam/blob/fc10002b7ad66fec77f36ab8afcb52a6f3195fb3/doc/mazam.png" alt="mazam" width="400"/>
+</p>
+
+
 ### and more inside the repos tab
 ### Thanks for visiting my GitHub profile! 🚀
