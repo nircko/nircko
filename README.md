@@ -1,16 +1,20 @@
 ## Hi there 👋
+## Welcome to Nircko's GitHub Profile!
 
-<!--
-**nircko/nircko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured Projects
+<p align="center">
+  <img src="https://github.com/nircko/memories_sequences/blob/c7a939506d378bc2c0506c2ca5ea6481756ee532/data/Tritonia%20Diomedea%20escape.gif" alt="AI temporal sequances of memory" width="400"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/nircko/cavity_flow_fdm/blob/d5614d712b284fdeb111120bccdc48d61dbdc45d/data/cavity_flow.png" alt="Cavity Flow Result" width="400"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nircko/3D-speckle-simulation/blob/main/cool_speckle_3d.gif" alt="Wave propgation inside turbalent media results in speckles" width="400"/>
+</p>
+
+### and more insdie the links
+### Thanks for visiting my GitHub profile! 🚀
