@@ -1,5 +1,5 @@
-## Hi there 👋
-## Welcome to Nircko's GitHub Profile!
+## Hi there 👋 , Welcome to Nircko's GitHub Profile!
+## 
 
 ### Featured Projects
 <p align="center">
@@ -16,5 +16,5 @@
   <img src="https://github.com/nircko/3D-speckle-simulation/blob/main/cool_speckle_3d.gif" alt="Wave propgation inside turbalent media results in speckles" width="400"/>
 </p>
 
-### and more insdie the links
+### and more inside the repos tab
 ### Thanks for visiting my GitHub profile! 🚀
